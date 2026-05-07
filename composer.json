@@ -1,0 +1,27 @@
+{
+  "name": "aitools12/copilot3d_org",
+  "description": "Copilot 3D AI 3D model generator metadata package.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.copilot3d.org",
+  "keywords": [
+    "copilot3d",
+    "copilot-3d",
+    "ai",
+    "3d",
+    "generator"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Copilot3dOrg\\": "src/"
+    }
+  },
+  "support": {
+    "source": "https://github.com/aitools12/copilot3d_org",
+    "issues": "https://www.copilot3d.org",
+    "docs": "https://www.copilot3d.org"
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
